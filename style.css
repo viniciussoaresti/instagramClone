@@ -32,6 +32,20 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
   font-size: 12px;
+  height: 100%;
+  width: 100%;
+}
+
+#notice {
+  text-decoration: solid underline;
+  color: white;
+  background-color: red;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 12px;
+  height: 100%;
+  width: 100%;
 }
 
 .instagram-wrapper {
